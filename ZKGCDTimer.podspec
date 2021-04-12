@@ -22,10 +22,10 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/ZLKGitHub/ZKGCDTimer"
 
-  spec.license      = "MIT (example)"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = "MIT"
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
-  spec.author             = { "bsoft" => "zhanglik@bsoft.com.cn" }
+  spec.author             = { "zlk19871213000" => "zhanglik@bsoft.com.cn" }
 
   spec.platform     = :ios
 
